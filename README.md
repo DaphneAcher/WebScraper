@@ -46,7 +46,5 @@ This script is for educational purposes only. Please respect [Stack Overflow’s
 
 ## Contact
 
-Built with ❤️ by [Your Name]  
-📧 [your@email.com](mailto:your@email.com)
-
+Built with ❤️ by Daphne  
 
